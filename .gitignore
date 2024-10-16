@@ -24,3 +24,4 @@ yarn-error.log*
 
 # build files
 dist/
+.firebase
