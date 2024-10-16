@@ -1,8 +1,15 @@
-import { SendTransactionRequest, TonConnect, UserRejectsError, WalletInfo, WalletInfoInjected } from '@tonconnect/sdk';
+import {
+	SendTransactionRequest,
+	TonConnect,
+	TonConnectOptions,
+	UserRejectsError,
+	WalletInfo,
+	WalletInfoInjected,
+} from '@tonconnect/sdk';
 import { notification } from 'antd';
 import { isMobile, openLink } from 'src/utils';
 
-const dappMetadata = {
+const dappMetadata: TonConnectOptions = {
 	manifestUrl: 'https://miraiapp-ton-demo.web.app/tonconnect-manifest.json',
 };
 
