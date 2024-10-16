@@ -1,7 +1,7 @@
 {
-  "url": "https://ton-connect.github.io/demo-dapp/",
-  "name": "Demo Dapp",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp/apple-touch-icon.png",
-  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp/terms-of-use.txt",
-  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp/privacy-policy.txt"
+	"url": "https://miraiapp-ton-demo.web.app/",
+	"name": "Mirai App TON Demo",
+	"iconUrl": "https://cdn.mirailabs.co/miraihub/miraiapp-icon-288.png",
+	"termsOfUseUrl": "https://miraiapp-ton-demo.web.app/terms-of-use.txt",
+	"privacyPolicyUrl": "https://miraiapp-ton-demo.web.app/privacy-policy.txt"
 }
